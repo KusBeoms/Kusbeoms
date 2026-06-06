@@ -41,7 +41,7 @@
 <div style="text-align: left;"> 
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> 
   <div align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=kusbeoms&bg_color=180,ff5900,000000&title_color=ffffff&text_color=ffffff" /> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kusbeoms&layout=compact&bg_color=180,ff5900,000000&title_color=ffffff&text_color=ffffff" /> 
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kusbeoms&bg_color=180,ff5900,000000&title_color=ffffff&text_color=ffffff" /> 
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kusbeoms&layout=compact&bg_color=180,ff5900,000000&title_color=ffffff&text_color=ffffff" /> 
   </div> 
 </div>
