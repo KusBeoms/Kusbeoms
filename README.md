@@ -34,9 +34,9 @@
 
 ---
 
-<div align="center">
-
 ## 📊 AI Usage Embed
+
+<div align="center">
 
 [![Tokscale Stats for @KusBeoms](https://tokscale.ai/api/embed/KusBeoms/svg?template=graph&color=orange&tokens=compact&cost=compact)](https://tokscale.ai/u/KusBeoms)
 
