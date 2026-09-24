@@ -41,15 +41,3 @@
 [![Tokscale Stats for @KusBeoms](https://tokscale.ai/api/embed/KusBeoms/svg?template=graph&color=orange&tokens=compact&cost=compact)](https://tokscale.ai/u/KusBeoms)
 
 </div>
-
----
-
-## 🏅 Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kusbeoms&bg_color=180,ff5900,000000&title_color=ffffff&text_color=ffffff)
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kusbeoms&layout=compact&bg_color=180,ff5900,000000&title_color=ffffff&text_color=ffffff)
-
-</div>
